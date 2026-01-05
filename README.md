@@ -248,7 +248,7 @@ Make a change, then save it and exit the nano. Commit your changes and push.
 
 The changes should show up in the GitHub repo.
 
-![retrieving ssh code for git](ssh-code-for-git.png>)
+![retrieving ssh code for git](ssh-code-for-git.png)
 
 You can always switch back to https tab if you'd like to use that, but you would have to do the git add remote command to set the https remote repo. Right now we will be using SSH so we can utilise SSH agent to play with git.
 
